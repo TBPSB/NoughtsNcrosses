@@ -41,4 +41,7 @@ npm run test
 Give a ⭐️ if this project helped you!
 
 ***
+##Contributor 
+
+👤 **Bhanu Pratap Singh Bisht**
 
