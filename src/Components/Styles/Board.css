@@ -46,6 +46,12 @@ button {
     outline: none;
     width: ;
 }
+button:hover,
+button:active{
+    background-color: aqua;
+    opacity: 25%;
+}
+
 
 body {
     background-color: #F3F3F3;
